@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 @layer base {
+<<<<<<< HEAD
   :root {
     --lunar-black: #050608;
     --lunar-grey-deep: #121419;
@@ -77,3 +78,19 @@
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(56, 189, 248, 0.4);
 }
+=======
+  html,
+  body,
+  #root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #020307;
+    color: #f4f6f9;
+    font-family: "Instrument Sans", system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+>>>>>>> d8bc69c (changes added)

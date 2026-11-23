@@ -1,6 +1,10 @@
 {
   "name": "MoonWalk VR",
+<<<<<<< HEAD
   "description": "Photorealistic lunar exploration simulation with desktop first-person walking, drivable Lunar Roving Vehicle (LRV), realistic lunar physics, and WebXR immersive VR mode.",
+=======
+  "description": "A high-resolution, photographic, immersive VR and desktop experience of falling through outer space and exploring the lunar surface.",
+>>>>>>> d8bc69c (changes added)
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
