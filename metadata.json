@@ -1,0 +1,6 @@
+{
+  "name": "MoonWalk VR",
+  "description": "A high-resolution, photographic, immersive VR and desktop experience of falling through outer space and exploring the lunar surface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
